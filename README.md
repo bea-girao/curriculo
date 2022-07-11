@@ -1,4 +1,12 @@
 ## Descrição
-- a
-- b
-- c
+Usado na aula 02 de git
+
+## Para adicionar os arquivos
+`git add .` ou `git add arquivo.html` <= boa prática
+
+## Para commitar/documentar o que foi alterado
+`git commit -m "O que essa alteração faz"`
+
+## Para enviar para o git
+`git push origin nome-da-branch` (main, developer etc.)
+
